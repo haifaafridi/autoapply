@@ -1,0 +1,55 @@
+{
+    "personal": {
+        "first_name": "",
+        "last_name": "",
+        "full_name": "",
+        "email": "",
+        "phone": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "zip": ""
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "resume_path": "./My_Resume.pdf",
+    "work_authorization": "",
+    "requires_sponsorship": "",
+    "education": {
+        "university": "",
+        "degree": "",
+        "major": "",
+        "graduation_year": "",
+        "gpa": ""
+    },
+    "experience": [
+        {
+            "company": "",
+            "title": "",
+            "start": "",
+            "end": "",
+            "description": ""
+        }
+    ],
+    "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Git"
+    ],
+    "cover_letter": "NEEDS_HUMAN",
+    "pronouns": "",
+    "how_did_you_hear": "LinkedIn",
+    "willing_to_relocate": "Yes",
+    "desired_salary": "NEEDS_HUMAN",
+    "demographics": {
+        "gender": "",
+        "hispanic_or_latino": "",
+        "veteran_status": "",
+        "disability_status": ""
+    }
+}

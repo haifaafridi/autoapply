@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Secrets — never commit these
+.env
+profile.json
+
+# Playwright browser binaries
+.playwright/
+
+# Run logs contain personal data — don't commit them
+logs/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Your actual resume — keep it private
+*.pdf
